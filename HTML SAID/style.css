@@ -1,0 +1,56 @@
+body
+{
+    background-color: burlywood;
+
+}
+h1
+{
+
+    background-color:grey;
+    text-align: center;
+}
+h2
+{
+    text-align: center;
+    color :black
+
+}
+.h3
+{
+    text-align: center;
+    color :burlywood
+    
+}
+ul
+{
+    text-align: center;
+    width: 400;
+
+}
+.tout
+{
+ display: flex;
+ flex-direction:column-reverse ;
+  
+}
+.perso
+{
+    display: flex;
+    justify-content: space-around;
+        
+}
+
+    
+
+.KDA
+{
+    display: flex;
+    justify-content: space-around;
+    
+}
+ul
+{
+    justify-content: center;
+}
+
+
